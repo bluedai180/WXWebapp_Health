@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/board/board",
+    "pages/item/item",
+    "pages/list/list",
+    "pages/search/search"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#354951",
+    "navigationBarTitleText": "健康生活",
+    "navigationBarTextStyle":"white"
+  }
+}
