@@ -32,7 +32,7 @@
 		"pagePath": "pages/about/about",
 		"iconPath": "images/profile.png",
 		"selectedIconPath": "images/profile-actived.png",
-		"text": "我的"
+		"text": "关于"
 	}]
   }
 }
